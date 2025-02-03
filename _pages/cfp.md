@@ -52,8 +52,6 @@ See CEUR author instructions for further details on how to prepare your submissi
 Full papers cannot exceed 15 pages including references. Short papers cannot exceed 8 pages including references. 
 Non-original contributions should include a reference to the already published version of the paper (for instance in a footnote on the first page).
 
-Papers must be submitted via Easychair: TBA
-
 # Proceedings
 
 Accepted original contributions will be included in a volume of the [CEUR Workshop Proceedings](https://ceur-ws.org/).<br>
