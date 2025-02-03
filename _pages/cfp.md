@@ -40,8 +40,10 @@ The Conference will feature presentations of invited speakers and contributed pa
 - Temporal logics
 - Tools and environments for program development
 - Treatment of uncertain or incomplete knowledge
+{: .text-justify}
 
 Download the [CFP](/assets/cfp.pdf)!
+{: .text-justify}
 
 # Submission Guidelines
 
@@ -81,3 +83,4 @@ All questions about submissions should be emailed to:
 - Luca Pulina (lpulina@uniss.it)
 - Laura Pandolfo (lpandolfo@uniss.it)
 - Dario Guidotti (dguidotti@uniss.it)
+{: .text-justify}
