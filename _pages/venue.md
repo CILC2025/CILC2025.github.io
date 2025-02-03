@@ -18,7 +18,9 @@ We recommend to make your hotel reservation early. Alghero is a popular destinat
 {: .text-justify}
 
 # Conference Venue
+
 ![A photo of the Palazzo del Pou Salit](/assets/images/venue.jpeg)
+
 The Conference will be held at the Palazzo del Pou Salit of the Department of Architecture, Design and Planning (DADU), University of Sassari, in Alghero, Sardinia, Italy. 
 - __Address__: [Bastioni Pigafetta, 07041 Alghero SS](https://goo.gl/maps/p9B1yzQN8Dg9MdNB9)
 {: .text-justify}
@@ -34,6 +36,7 @@ Alternatively, Porto Torres Harbour (25 km from Alghero) has many daily connecti
 
 # Visa
 Italy is part of the Schengen area. Please verify whether you need a Schengen visa before your trip. If you require a visa, we recommend contacting the nearest embassy, consulate, or travel agency for information about the passport and visa requirements from your country for entry to Italy (Schengen). If you need an invitation letter for visa purposes, then write in due time to the chair (lpandolfo@uniss.it). Unfortunately, we require the following information in order to avoid visa fraud:
+{: .text-justify}
 
 - Students: brief reference letter from your supervisor including contact details for the University.
 - Non-students: the Digital Object Identifier (DOI) of at least one publication in scope of the CILC conference OR some other evidence of your affiliation with CILC (e.g reference letter from employer).
