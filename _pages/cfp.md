@@ -11,6 +11,7 @@ layout: splash
 # Scope
 
 The Conference will feature presentations of invited speakers and contributed papers concerning all aspects of computational logic.
+{: .text-justify}
 
 - Abductive Logic Programming
 - Analysis, transformation, validation and verification of programs
@@ -47,25 +48,32 @@ Download the [CFP](/assets/cfp.pdf)!
 The Conference solicits two types of submissions:
 - Full papers, even if already published in journals or in proceedings of other conferences
 - Short papers, which are particularly suitable to present work in progress, software prototypes, extended abstracts of doctoral thesis, and general overviews of research projects.
+{: .text-justify}
 
 Contributions must be written in English, formatted using the CEURART style ([with the one-column option](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)), and submitted in PDF format.
 See CEUR author instructions for further details on how to prepare your submission.
+{: .text-justify}
 
 Full papers cannot exceed 15 pages including references. Short papers cannot exceed 8 pages including references. 
 Non-original contributions should include a reference to the already published version of the paper (for instance in a footnote on the first page).
+{: .text-justify}
 
 Papers must be submitted via the online submission system CMT. Further details will be shared soon.
+{: .text-justify}
 
 # Proceedings
 
 Accepted original contributions will be included in a volume of the [CEUR Workshop Proceedings](https://ceur-ws.org/).<br>
 Accepted non-original contributions will be given visibility on the conference web site including a link to the original publication, if available.
 **For each paper accepted, at least one of the authors is required to make a senior registration (details will be available soon on the web site).**
+{: .text-justify}
 
 Following the CILC tradition, a selection of papers is planned to be published in a special issue of an international journal (to be determined). 
 Extensions of accepted non-original contributions, if not yet published in a journal, can be considered for the inclusion in the special issue.
+{: .text-justify}
 
 The event is organized by GULP - Gruppo ricercatori e Utenti Logic Programming and all participants are required to be members of GULP.
+{: .text-justify}
 
 # Contacts
 
