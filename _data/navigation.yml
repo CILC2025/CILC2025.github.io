@@ -1,11 +1,11 @@
 main:
   - title: Home
     url: index.html
+  - title: "Important Dates"
+    url: /dates/
   - title: "Call for Papers"
     url: /cfp/
   - title: "Organizers"
     url: /organizers/
   - title: "Venue"
     url: /venue/
-  - title: "Important Dates"
-    url: /dates/
