@@ -48,6 +48,7 @@ include:
 #   - vendor/ruby/
 
 logo: "/assets/images/logo.svg"
+masthead_title: ""
 
 # Plugins (previously gems:)
 plugins:
