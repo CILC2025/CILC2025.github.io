@@ -13,14 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
-email:
+title: CILC2025
+email: dguidotti@uniss.it
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: username
-github_username: username
+  The Italian Conference of Computational Logic (CILC) is the annual meeting of the Italian Association for Logic Programming (GULP - Gruppo Ricercatori e Utenti Logic Programming)
+  and since its first edition held in Genoa in 1986 it has represented an important occasion for meeting and exchanging ideas and experiences between users, researchers, and
+  developers working in the field of Computational Logic. The 40th annual conference will take place at the University of Sassari on 25-27 June 2025.
+
 minimal_mistakes_skin: default
 search: true
 
@@ -29,7 +28,7 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 0 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 

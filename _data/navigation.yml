@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+  - title: Home
+    url: index.html
+  - title: "Call for Papers"
+    url: /cfp/
+  - title: "Organizers"
+    url: /organizers/
+  - title: "Venue"
+    url: /venue/
+  - title: "Important Dates"
+    url: /dates/
