@@ -40,6 +40,8 @@ The Conference will feature presentations of invited speakers and contributed pa
 - Tools and environments for program development
 - Treatment of uncertain or incomplete knowledge
 
+Download the [CFP](/assets/cfp.pdf)!
+
 # Submission Guidelines
 
 The Conference solicits two types of submissions:
