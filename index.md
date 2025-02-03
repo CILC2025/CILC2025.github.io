@@ -19,5 +19,5 @@ The Italian Conference of Computational Logic (CILC) is the annual meeting of th
 
 ### With the contribution of
 <br>
-[![Logo of University of Sassari](/SAT23/assets/images/uniss_logo.png)](https://www.uniss.it/)
+[![Logo of University of Sassari](/assets/images/uniss_logo.png)](https://www.uniss.it/)
 

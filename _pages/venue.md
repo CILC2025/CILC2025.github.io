@@ -9,14 +9,14 @@ layout: splash
 
 # The city of Alghero
 
-![A panoramic photo of the city of Alghero](/SAT23/assets/images/alghero_panorama.jpg)
+![A panoramic photo of the city of Alghero](/assets/images/alghero_panorama.jpg)
 
 The conference will be held in the city of Alghero, located on the north west part of beautiful Sardinia island, Italy. Internationally well known for its beautiful beaches, that make it a great sea resort during an extended summer season (May/October), Alghero is also a lovely historical town, with restaurants, bars, pubs and nightlife that make it one of Sardinia's top touristic destinations.<br>
 The town center is well connected to all major European destinations (the rest of Italy, UK, Spain, Germany, and so on...) thanks to the Alghero-Fertilia airport (only ten minutes away from town), with daily low-cost flights.<br>
-We recommend to make your hotel reservation early. Alghero is a popular destination in the summer and it is advisable to book in advance. [Here](/SAT23/assets/accomodation.pdf) is a list of recommended hotels and B&B.
+We recommend to make your hotel reservation early. Alghero is a popular destination in the summer and it is advisable to book in advance. [Here](/assets/accomodation.pdf) is a list of recommended hotels and B&B.
 
 # Conference Venue
-![A photo of the Palazzo del Pou Salit](/SAT23/assets/images/venue.jpeg)
+![A photo of the Palazzo del Pou Salit](/assets/images/venue.jpeg)
 The Conference will be held at the Palazzo del Pou Salit of the Department of Architecture, Design and Planning (DADU), University of Sassari, in Alghero, Sardinia, Italy. 
 - __Address__: [Bastioni Pigafetta, 07041 Alghero SS](https://goo.gl/maps/p9B1yzQN8Dg9MdNB9)
 
