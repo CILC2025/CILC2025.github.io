@@ -47,7 +47,7 @@ include:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-logo: "/assets/images/logo.svg"
+logo: "/assets/images/logo.png"
 masthead_title: ""
 
 # Plugins (previously gems:)
