@@ -5,60 +5,68 @@ header:
   overlay_filter: 0.5 # same as adding an opacity of 0.5 to a black background
   
 layout: splash
-
 ---
 
 # Scope
 
-SAT is the premier annual meeting for researchers focusing on the theory and applications of propositional satisfiability, broadly construed. That includes Boolean optimization, such as MaxSAT and Pseudo-Boolean (PB) constraints, Quantified Boolean Formulas (QBF), Satisfiability Modulo Theories (SMT), model counting, and Constraint Programming (CP) for problems with clear connections to Boolean-level reasoning. Topics of interest include (but are not limited to):
-- Theoretical advances (including algorithms, proof complexity, parameterized complexity, and other complexity issues)
-- Practical search algorithms
-- Knowledge compilation
-- Implementation-level details of SAT solving tools and SAT-based systems
-- Problem encodings and reformulations
-- Applications (including both novel applications domains and improvements to existing approaches)
-- Case studies and reports on insightful findings based on rigorous experimentation
+The Conference will feature presentations of invited speakers and contributed papers concerning all aspects of computational logic.
 
-# Out of Scope
+- Abductive Logic Programming
+- Analysis, transformation, validation and verification of programs
+- Answer Set Programming
+- Applications of Computational Logic and systems
+- Approximate Reasoning
+- Automated Theorem Proving
+- Computational Argumentation
+- Computational Logic and formal methods in Artificial Intelligence
+- Computational Logic for concurrency, coordination, mobility, agents and objects
+- Data mining and Data integration
+- Deductive databases
+- Extensions and integrations of declarative programming paradigms
+- Implementations and benchmarking of Computational Logic systems
+- Inductive Logic Programming
+- Knowledge representation and extraction
+- Logic programming, constraint programming and other declarative programming paradigms
+- Model-based Reasoning
+- Model Checking
+- Multi-agent systems
+- Natural language processing
+- Non-Monotonic Reasoning
+- Planning and scheduling
+- Probabilistic Logic Programming
+- Semantic web
+- Temporal logics
+- Tools and environments for program development
+- Treatment of uncertain or incomplete knowledge
 
-Papers claiming to resolve a major long-standing open theoretical question in Mathematics or Computer Science (such as those for which a Millennium Prize is offered), are outside the scope of the conference because there is insufficient time in the schedule to referee such papers; instead, such papers should be submitted to an appropriate technical journal.
+# Submission Guidelines
 
-# Paper Categories
+The Conference solicits two types of submissions:
+- Full papers, even if already published in journals or in proceedings of other conferences
+- Short papers, which are particularly suitable to present work in progress, software prototypes, extended abstracts of doctoral thesis, and general overviews of research projects.
 
-Submissions to SAT 2023 are invited in the following three categories:
+Contributions must be written in English, formatted using the CEURART style ([with the one-column option](https://ceur-ws.org/HOWTOSUBMIT.html#CEURART)), and submitted in PDF format.
+See CEUR author instructions for further details on how to prepare your submission.
 
-- Long papers (9 to 15 pages, excluding references and appendices)
-- Short papers (up to 8 pages, excluding references and appendices)
-- Tool papers (up to 8 pages, excluding references and appendices)
+Full papers cannot exceed 15 pages including references. Short papers cannot exceed 8 pages including references. 
+Non-original contributions should include a reference to the already published version of the paper (for instance in a footnote on the first page).
 
-Long and short papers should contain original research, with sufficient detail to assess the merits and relevance of the contribution. For papers reporting experimental results, authors are strongly encouraged to make their data and implementation available with the submission. Submissions on applications and case studies are encouraged. Such papers should describe details, weaknesses and strengths of the proposed approaches in sufficient depth, but they are not expected to introduce novel solving methods.
-
-Long and short papers will be evaluated with the same quality standards, and are expected to contain a similar contribution per page ratio.The authors should choose between a long or a short paper depending on the space they need to fully describe their contribution. The classification between long and short papers impacts the duration of the presentation of the work during the conference. It is the responsibility of the authors to make sure that their paper is self-contained in the chosen limit of pages. There will be no re-classification of the submissions by the PC.
-
-Tool papers are expected to report on the design and implementation of a tool and its novel features. Here “tool” is interpreted in a broad sense, including descriptions of solvers, preprocessors, etc., as well as systems that exploit SAT solvers or their extensions for use in a relevant problem domain. A demonstration is expected to accompany a tool presentation. Papers describing tools that have already been presented previously are expected to contain significant and clear enhancements to the tool.
-
-# Submission
-
-Submissions should not be under review elsewhere nor be submitted elsewhere while under review for SAT 2023, and should not consist of previously published material. Submissions not consistent with these guidelines may be returned without review.
-
-Papers must be formatted in the LIPIcs LaTeX style available [here](https://www.dagstuhl.de/en/publishing/series/details/LIPIcs#author). Submissions must be made electronically in PDF format. The reviewing process for SAT 2023 is **single-blind**.
-
-[Submit now!](https://easychair.org/conferences/?conf=sat2023){: .btn .btn--success .btn--large .align-center}
-
-Authors may submit a supplement containing detailed proofs, examples, software, detailed experimental data, or other material related to the submission, to be consulted at the discretion of the reviewers. Supplements will be treated with the same degree of confidentiality as the paper itself. The supplement must consist of a single file in one of the following formats: zipped tarball (.tar.gz or .tgz), gzipped file (.gz), or zip archive (.zip).
-
-One author of each accepted paper is expected to present it at the conference.
-
-# Deadlines
-
-- Abstract Submission: March 10, 2023
-- Paper Submission: March 17, 2023
-
-# Best Paper Awards
-
-Long and short papers may be considered for a Best Paper Award. If the main author is a student, both in terms of work and writing, the paper may be considered for a Best Student Paper Award.
+Papers must be submitted via Easychair: TBA
 
 # Proceedings
 
-Accepted papers will be published as proceedings of the conference in the [​Leibniz International Proceedings in Informatics (LIPIcs)](https://www.dagstuhl.de/en/publications/lipics/)​ as a free, open, electronic archive with access to all. Authors will retain full rights over their work. The accepted papers will be published under a ​[CC-BY license](https://creativecommons.org/licenses/by/3.0)​. 
+Accepted original contributions will be included in a volume of the [CEUR Workshop Proceedings](https://ceur-ws.org/).<br>
+Accepted non-original contributions will be given visibility on the conference web site including a link to the original publication, if available.
+**For each paper accepted, at least one of the authors is required to make a senior registration (details will be available soon on the web site).**
 
+Following the CILC tradition, a selection of papers is planned to be published in a special issue of an international journal (to be determined). 
+Extensions of accepted non-original contributions, if not yet published in a journal, can be considered for the inclusion in the special issue.
+
+The event is organized by GULP - Gruppo ricercatori e Utenti Logic Programming and all participants are required to be members of GULP.
+
+# Contacts
+
+All questions about submissions should be emailed to: 
+- Luca Pulina (lpulina@uniss.it)
+- Laura Pandolfo (lpandolfo@uniss.it)
+- Dario Guidotti (dguidotti@uniss.it)
