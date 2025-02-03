@@ -9,6 +9,7 @@ layout: splash
 ---
 
 The Italian Conference of Computational Logic (CILC) is the annual meeting of the Italian Association for Logic Programming (GULP - Gruppo Ricercatori e Utenti Logic Programming) and since its first edition held in Genoa in 1986 it has represented an important occasion for meeting and exchanging ideas and experiences between users, researchers, and developers working in the field of Computational Logic. The 40th annual conference will take place at the University of Sassari on 25-27 June 2025.
+{: .text-justify}
 
 # Important Dates
 
