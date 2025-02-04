@@ -60,7 +60,7 @@ Full papers cannot exceed 15 pages including references. Short papers cannot exc
 Non-original contributions should include a reference to the already published version of the paper (for instance in a footnote on the first page).
 {: .text-justify}
 
-Papers must be submitted via the online submission system CMT. Further details will be shared soon.
+Papers must be submitted via the [online submission system CMT](https://cmt3.research.microsoft.com/CILC2025).
 {: .text-justify}
 
 # Proceedings
