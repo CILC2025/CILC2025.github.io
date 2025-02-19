@@ -32,6 +32,7 @@ layout: splash
 - Giovanni De Gasperis (University of L'Aquila)
 - Dario Della Monica (University of Udine)
 - Giorgio Delzanno (University of Genova)
+- Stefano Demarchi (University of Genova)
 - Agostino Dovier (University of Udine)
 - Wolfgang Faber (University of Klagenfurt)
 - Mauro Ferrari (University of Insubria)
