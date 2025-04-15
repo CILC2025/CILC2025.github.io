@@ -13,7 +13,8 @@ The Italian Conference of Computational Logic (CILC) is the annual meeting of th
 
 # Important Dates
 
-- Paper Submission: April 18, 2025
+- ~~Paper Submission: April 18, 2025~~
+- **Paper Submission: May 2, 2025 (Deadline Extension)**
 - Notification: May 23, 2025
 - Final version: June 13, 2025
 - Conference: June 25-27, 2025
