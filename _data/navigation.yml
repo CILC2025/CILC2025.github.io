@@ -5,6 +5,8 @@ main:
     url: /dates/
   - title: "Call for Papers"
     url: /cfp/
+  - title: "Speakers"
+    url: /speakers/
   - title: "Organizers"
     url: /organizers/
   - title: "Venue"
