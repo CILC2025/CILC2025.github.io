@@ -17,7 +17,7 @@ If you are already a member, please contact the GULP secretariat at [emanuele.de
 
 {: .text-justify}
 The registration fee includes:
-- Three lunches  
+- Three lunches and four coffee breaks
 - One ticket for the social dinner (additional tickets available at **60 EUR** each)
 
 ### Registration Categories
@@ -26,7 +26,7 @@ The registration fee includes:
 {: .text-justify}
 *(Faculty members, RTD-A's, RTD-B's, etc.)*
 - **250 EUR**
-- **245 EUR** for members of **AI\*IA, AILA, ICTCS, or INdAM-GNCS**
+- **245 EUR** for members of **AI\*IA, AILA**
 
 #### Junior
 {: .text-justify}
