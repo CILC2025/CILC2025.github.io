@@ -41,7 +41,7 @@ Participants interested in this support are kindly invited to complete the [Goog
 
 {: .text-justify}
 At least **one author of each paper** must pay a **senior registration fee**.  
-All attendants are required to complete registration by **TBA**.
+All attendants are required to complete registration by **12/06/2025**.
 
 ---
 
