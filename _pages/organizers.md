@@ -12,7 +12,7 @@ layout: splash
 - [Luca Pulina](https://www.uniss.it/ugov/person/200) (University of Sassari)
 - [Laura Pandolfo](https://www.uniss.it/ugov/person/11661) (University of Sassari)
 
-## Local Chair
+## Local and Publicity Chair
 - [Dario Guidotti](https://www.uniss.it/it/ugov/person/109416) (University of Sassari)
 
 ## Program Committee
