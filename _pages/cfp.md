@@ -81,8 +81,6 @@ Extensions of accepted non-original contributions, if not yet published in a jou
 The event is organized by GULP - Gruppo ricercatori e Utenti Logic Programming and all participants are required to be members of GULP.
 {: .text-justify}
 
----
-
 ### Formatting Guidelines
 
 Please prepare your final manuscript using the official **[CEUR-ART LaTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip)**:
@@ -111,8 +109,6 @@ Please prepare your final manuscript using the official **[CEUR-ART LaTeX templa
   - Do **not** capitalize articles (e.g., *a*, *an*, *the*), short prepositions (e.g., *in*, *of*, *on*, *by*), or coordinating conjunctions (e.g., *and*, *but*, *or*)—unless the word is the first or last word of the title, or follows a colon.
 {: .text-justify }
 
----
-
 ### Submission Requirements
 
 Via the CMT platform, authors are required to upload the following:
@@ -127,8 +123,6 @@ Via the CMT platform, authors are required to upload the following:
 
 You may upload the files individually or bundled in a compressed archive.
 {: .text-justify }
-
----
 
 ### Copyright Agreement Forms
 
