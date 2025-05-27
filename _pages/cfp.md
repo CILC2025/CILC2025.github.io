@@ -45,6 +45,8 @@ The Conference will feature presentations of invited speakers and contributed pa
 Download the [CFP](/assets/cfp.pdf)!
 {: .text-justify}
 
+---
+
 # Submission Guidelines
 
 The Conference solicits two types of submissions:
@@ -63,6 +65,8 @@ Non-original contributions should include a reference to the already published v
 Papers must be submitted via the [online submission system CMT](https://cmt3.research.microsoft.com/CILC2025).
 {: .text-justify}
 
+---
+
 # Proceedings
 
 Accepted original contributions will be included in a volume of the [CEUR Workshop Proceedings](https://ceur-ws.org/).<br>
@@ -76,6 +80,84 @@ Extensions of accepted non-original contributions, if not yet published in a jou
 
 The event is organized by GULP - Gruppo ricercatori e Utenti Logic Programming and all participants are required to be members of GULP.
 {: .text-justify}
+
+---
+
+### Formatting Guidelines
+
+Please prepare your final manuscript using the official **[CEUR-ART LaTeX template](http://ceur-ws.org/Vol-XXX/CEURART.zip)**:
+{: .text-justify }
+
+- Set the document class using the following command:
+  ```
+  \documentclass{ceurart}
+  ```
+{: .text-justify }
+
+- Immediately after `\begin{document}`, insert the following commands:
+  ```
+  \copyrightyear{2025}
+  \copyrightclause{Copyright for this paper by its authors.
+    Use permitted under Creative Commons License Attribution 4.0 International (CC BY 4.0).}
+  \conference{CILC 2025: 40th Italian Conference on Computational Logic, June 25--27, 2025, Alghero, Italy}
+  ```
+{: .text-justify }
+
+- **Do not** include page numbers, line numbers, or running headers in your manuscript.
+{: .text-justify }
+
+- Please use **emphasized capitalization** for the paper title and section headings. This means:
+  - Capitalize all main words.
+  - Do **not** capitalize articles (e.g., *a*, *an*, *the*), short prepositions (e.g., *in*, *of*, *on*, *by*), or coordinating conjunctions (e.g., *and*, *but*, *or*)—unless the word is the first or last word of the title, or follows a colon.
+{: .text-justify }
+
+---
+
+### Submission Requirements
+
+Via the CMT platform, authors are required to upload the following:
+{: .text-justify }
+
+1. A **signed copyright agreement** (see details below).  
+2. The **final PDF** version of the camera-ready paper.  
+3. An **editable version** of the manuscript:  
+   - For LaTeX submissions: provide all relevant source files (`.tex`, `.bib`, figures, etc.), ideally packaged in a single `.zip` file.  
+   - For Word or similar: submit the document in `.doc`, `.docx`, or `.odt` format.
+{: .text-justify }
+
+You may upload the files individually or bundled in a compressed archive.
+{: .text-justify }
+
+---
+
+### Copyright Agreement Forms
+
+Please select and complete the appropriate form based on the content of your submission:
+{: .text-justify }
+
+- **AUTHOR-AGREEMENT (NTP)**  
+  [Download here](https://cilc2025.github.io/assets/ceur-author-agreement-ccby-ntp-precompiled.pdf)  
+  Use this form **if your paper contains no copyrighted third-party content** and  
+  **was not generated using Generative AI tools**. This applies in most cases.
+{: .text-justify }
+
+- **AUTHOR-AGREEMENT (TP)**  
+  [Download here](https://cilc2025.github.io/assets/ceur-author-agreement-ccby-tp-precompiled.pdf)  
+  Use this form **if your paper includes third-party material** (e.g., figures, data, or text not originally authored by you),  
+  or **was produced with the assistance of Generative AI tools**.
+{: .text-justify }
+
+  - In the case of third-party content, you must attach documented permission from the rights holders.  
+  - If Generative AI tools were used, you must also complete and sign the **AI Statement** specifying what content was generated:  
+    [Download AI Statement](https://ceur-ws.org/ceur-author-statement-AI-material.pdf?ver=2024-06-04)
+{: .text-justify }
+
+  Alternatively, if your manuscript includes the “Declaration on Generative AI” section (as defined in the latest CEURART template),  
+  the separate AI Statement form is not required.
+{: .text-justify }
+
+
+---
 
 # Contacts
 
