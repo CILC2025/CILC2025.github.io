@@ -33,7 +33,7 @@ The registration fee includes:
 *(Non-faculty members, Ph.D. students, undergraduate students, etc.)*
 - **120 EUR**
 
-#### Accomodation Support for Junior Participants
+#### Accommodation Support for Junior Participants
 {: .text-justify}
 The Italian Association for Logic Programming is offering a limited number of free shared accommodations (same-gender rooms) for two nights — June 25th and 26th — during CILC 2025.  
 We particularly welcome requests from Master's students, PhD students, and early-career postdocs.  
