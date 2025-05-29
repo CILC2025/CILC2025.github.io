@@ -3,6 +3,8 @@ main:
     url: index.html
   - title: "Important Dates"
     url: /dates/
+  - title: "Program"
+    url: /program/
   - title: "Registration"
     url: /registration/
   - title: "Call for Papers"
