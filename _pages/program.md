@@ -8,8 +8,6 @@ header:
 layout: splash
 ---
 
-# Conference Program
-
 <table class="schedule">
   <thead>
     <tr>
