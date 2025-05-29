@@ -10,37 +10,229 @@ layout: splash
 
 # Conference Program
 
-| Time        | Wednesday (25/06/2025)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-|-------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:30-10:30 | Registration                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 10:30-10:35 | Opening                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 10:35-13:00 | **Session I: Application (Part I)**<br><em>Chair: TBD</em><br>10:35-11:00 *ASP Chef for Water Waste Monitoring* (Luis Angel Rodriguez Reiners, Mario Alviano)<br>11:00-11:20 *An ASP based approach to UAM Strategic Deconfliction: Preliminary Results* (Gioacchino Sterlicchio, Angelo Oddi, Riccardo Rasconi, Francesca Alessandra Lisi)<br>11:20-11:45 *TOLC-ASP: a Tool for Training Students for Admission Tests* (Edda Dal Santo, Agostino Dovier, Talissa Dreossi)<br>11:45-12:10 *GPU-Accelerated Propagation for the Stable Marriage Constraint* (Stefano Travasci, Fabio Tardivo, Andrea Formisano)<br>12:10-12:35 *Improving ASP-based ORS Schedules through Machine Learning Predictions* (Pierangela Bruno, Carmine Dodaro, Giuseppe Galatà, Marco Maratea, Marco Mochi)<br>12:35-13:00 *Logic, Leaves, and Labels: Visualizing SELinux Trees with ASP Chef* (Mario Alviano, Pietro Marcrì) |
-| 13:00-14:00 | Lunch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| 14:00-15:00 | **Invited Talk**<br>Stefano Bistarelli, University of Perugia, Italy<br>*TBA*<br><em>Chair: TBD</em>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| 15:00–16:15 | **Session II: Neuro-Symbolic Learning and Explainability**<br><em>Chair: TBD</em><br>15:00-15:25 *An Evaluation of Open Source LLMs for Neuro-Symbolic Integration* (Stefano Sambri, Atefeh Ghanbari, Fabrizio Riguzzi)<br>15:25-15:50 *A Study on Contradiction Detection using a Neuro-Symbolic Approach* (Alessia Donata Camarda, Giovambattista Ianni)<br>15:50-16:15 *Explainable AI for Sperm Morphology: Integrating YOLO with FastLAS* (Talissa Dreossi, Agostino Dovier, Francesca Corte Pause, Susy Urli, Martina Crociati)                                                                                                                                                                                                                                                                                                                                                                     |
-| 16:15–16:35 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
-| 16:35-17:50 | **Session III: Application (Part II)**<br><em>Chair: TBD</em><br>16:35-17:00 *Cyclic Nurse Scheduling with ASP: Two Case Studies from Cosenza Hospitals* (Carmine Dodaro, Marco Maratea, Nicola Ramacciati)<br>17:00-17:25 *An LBBD Approach for Solving the Chemotherapy Treatment Scheduling Problem* (Simone Caruso, Carmine Dodaro, Marco Maratea, Cinzia Marte, Marco Mochi)<br>17:25-17:50 *An Application of the TCL Logic to Aerospace Missions* (Antonio Lieto, Marco Orusa, Gian Luca Pozzato, Stefano Zoia)                                                                                                                                                                                                                                                                                                                                                                                    |
-| 17:50-18:50 | Direttivo                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Wednesday (25/05/2025)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:30-10:30</td>
+      <td>Registration</td>
+    </tr>
+    <tr>
+      <td>10:30-10:35</td>
+      <td>Opening</td>
+    </tr>
+    <tr>
+      <td>10:35-13:00</td>
+      <td>
+        <strong>Session I: Application (Part I)</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>10:35-11:00</strong><br> Luis Angel Rodriguez Reiners, Mario Alviano <br><em>ASP Chef for Water Waste Monitoring</em></li>
+          <li><strong>11:00-11:20</strong><br> Gioacchino Sterlicchio, Angelo Oddi, Riccardo Rasconi, Francesca Alessandra Lisi <br><em>An ASP based approach to UAM Strategic Deconfliction: Preliminary Results</em></li>
+          <li><strong>11:20-11:45</strong><br> Edda Dal Santo, Agostino Dovier, Talissa Dreossi <br><em>TOLC-ASP: a Tool for Training Students for Admission Tests</em></li>
+          <li><strong>11:45-12:10</strong><br> Stefano Travasci, Fabio Tardivo, Andrea Formisano <br><em>GPU-Accelerated Propagation for the Stable Marriage Constraint</em></li>
+          <li><strong>12:10-12:35</strong><br> Pierangela Bruno, Carmine Dodaro, Giuseppe Galatà, Marco Maratea, Marco Mochi <br><em>Improving ASP-based ORS Schedules through Machine Learning Predictions</em></li>
+          <li><strong>12:35-13:00</strong><br> Mario Alviano, Pietro Marcrì <br><em>Logic, Leaves, and Labels: Visualizing SELinux Trees with ASP Chef</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13:00-14:00</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>14:00-15:00</td>
+      <td>
+        <strong>Invited Talk</strong><br>
+        <em>Chair: TBD</em><br><br>
+        <strong>Stefano Bistarelli, University of Perugia, Italy</strong><br>
+        <em>TBA</em>
+      </td>
+    </tr>
+    <tr>
+      <td>15:00-16:15</td>
+      <td>
+        <strong>Session II: Neuro-Symbolic Learning and Explainability</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>15:00-15:25</strong><br> Stefano Sambri, Atefeh Ghanbari, Fabrizio Riguzzi <br><em>An Evaluation of Open Source LLMs for Neuro-Symbolic Integration</em></li>
+          <li><strong>15:25-15:50</strong><br> Alessia Donata Camarda, Giovambattista Ianni <br><em>A Study on Contradiction Detection using a Neuro-Symbolic Approach</em></li>
+          <li><strong>15:50-16:15</strong><br> Talissa Dreossi, Agostino Dovier, Francesca Corte Pause, Susy Urli, Martina Crociati <br><em>Explainable AI for Sperm Morphology: Integrating YOLO with FastLAS</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16:15-16:35</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>16:35-17:50</td>
+      <td>
+        <strong>Session III: Application (Part II)</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>16:35-17:00</strong><br> Carmine Dodaro, Marco Maratea, Nicola Ramacciati <br><em>Cyclic Nurse Scheduling with ASP: Two Case Studies from Cosenza Hospitals</em></li>
+          <li><strong>17:00-17:25</strong><br> Simone Caruso, Carmine Dodaro, Marco Maratea, Cinzia Marte, Marco Mochi <br><em>An LBBD Approach for Solving the Chemotherapy Treatment Scheduling Problem</em></li>
+          <li><strong>17:25-17:50</strong><br> Antonio Lieto, Marco Orusa, Gian Luca Pozzato, Stefano Zoia <br><em>An Application of the TCL Logic to Aerospace Missions</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>17:50-18:50</td>
+      <td>Direttivo</td>
+    </tr>
+  </tbody>
+</table>
 
-| Time        | Thursday (26/06/2025)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-|-------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:00-10:00 | **Invited Talk**<br>Rafael Penaloza Nyssen, University of Milano-Bicocca, Italy<br>*Rough Knowledge and its Refinement*<br><em>Chair: TBD</em>                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 10:00-10:50 | **Session IV: Analysis & Verification**<br><em>Chair: TBD</em><br>10:00-10:25 *Verification of Coverability in Positive Interactive Datalog Programs* (Francesco Di Cosmo)<br>10:25-10:50 *Stronger Integration of Circuit and All Different Propagators for the Hamiltonian Cycle Problem* (Alessandro Bertagnon, Marco Gavanelli)                                                                                                                                                                                                                    |
-| 10:50-11:15 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 11:15-12:50 | **Session V: Probabilistic Logic Programming and Process Mining**<br><em>Chair: TBD</em><br>11:15-11:40 *Probabilistic Traces in Declarative Process Mining* (Elena Bellodi)<br>11:40-12:05 *Probabilistic Compliance in Declarative Process Mining* (Elena Bellodi)<br>12:05-12:30 *Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study* (Elena Bellodi)<br>12:30-12:50 *Probabilistic compliance of uncertain traces in Declarative Process Mining* (Elena Bellodi) |
-| 13:00-14:00 | Lunch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
-| 14:00-15:00 | **Tutorial**<br>Giuseppe Mazzotta, University of Calabria, Italy<br>*ASP with Quantifiers: A Natural and Efficient Way to Tackle Problems Beyond NP*<br><em>Chair: TBD</em>                                                                                                                                                                                                                                                                                                                                                                            |
-| 15:00-16:15 | **Session VI: Answer Set Programming & Natural Language Processing**<br><em>Chair: TBD</em><br>15:00-15:25 *Querying and Visualizing Digital Twins with ASP and ASP Chef: Preliminary Report* (Mario Alviano, Paola Guarasci)<br>15:25-15:50 *Answer Set Programming for Feature-Based Explanation of Malware Prediction* (Alessio Russo, Eleonora Iotti, Alessandro Dal Palù)<br>15:50-16:15 *Blending grounding and compilation for efficient ASP solving* (Carmine Dodaro, Giuseppe Mazzotta, Francesco Ricca)                                      |
-| 16:15-16:30 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| 16:30-17:30 | Assemblea Soci                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| 19:15       | Social Dinner                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 
-| Time        | Friday (27/06/2025)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-|-------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 09:00-10:35 | **Session VII: Knowledge Representation (Part I)**<br><em>Chair: TBD</em><br>09:00-09:25 *From Blueprint Personas to Epistemic Agents: A Comparative Study of ASP-Based and L-DINF-Based Approaches to Medical Appointment Scheduling* (Valentina Pitoni, Stefania Costantini, Andrea Monaldini, Alina Vozna) <br>09:25-09:45 *ALIGHIERoo: Advanced Literary and Iconographic Graph for Hermeneutics of Interconnected Editions and Resources - Object Oriented* (Stefano Angelo Rizzo, Domenico Cantone, Marianna Nicolosi-Asmundo)<br>09:45-10:10 *An ASP translation for non-monotonic reasoning on DL-Lite_R with Prototype Descriptions* (Gabriele Sacco, Loris Bozzato, Oliver Kutz)<br>10:10-10:35 *Toward Executing Datalog on Big Data Platforms* (Andrea Cuteri, Giuseppe Mazzotta, Francesco Ricca) |
-| 10:35-10:50 | Coffee Break                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| 10:50-12:25 | **Session IX: Logic**<br><em>Chair: TBD</em><br>10:50-11:15 *Diophantine modeling of provability in algebraic logic* (Andrea Formisano, Isacco Gavazzi, Eugenio G.Omodeo)<br>11:15-11:35 *Temporal Many-valued Conditional Logics: an Abridged Report* (Mario Alviano, Laura Giordano, Daniele Theseider Dupré)<br>11:35-12:00 *Key Metalogical Propositions on a Variant of Hilbert’s Epsilon-Calculus* (Domenico Cantone, Marianna Nicolosi Asmundo, Eugenio G. Omodeo)<br>12:00-12:25 *Proof search and countermodel construction for iCK4* (Mauro Ferrari, Camillo Fiorentini, Paolo Giardini)                                                                                                                                                                                                             |
-| 12:25-13:25 | Lunch                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
-| 13:25-14:40 | **Session X: Argumentation**<br><em>Chair: TBD</em><br>13:30-13:55 *Weighted Assumption Based Argumentation to reason about ethical principles and actions* (Paolo Baldi, Fabio Aurelio D'Asaro, Abeer Dyoub, Francesca Alessandra Lisi)<br>13:55-14:15 *Learning Brave Assumption-Based Argumentation Frameworks via ASP* (Emanuele De Angelis, Maurizio Proietti, Francesca Toni)<br>14:15-14:40 *Greedy ABA Learning for Case-Based Reasoning* (Emanuele De Angelis, Maurizio Proietti, Francesca Toni)                                                                                                                                                                                                                                                                                                     |
-| 14:40-14:45 | Closing                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Thursday (26/06/2025)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00-10:00</td>
+      <td>
+        <strong>Invited Talk</strong><br>
+        <em>Chair: TBD</em><br><br>
+        <strong>Rafael Penaloza Nyssen, University of Milano-Bicocca, Italy</strong><br>
+        <em>Rough Knowledge and its Refinement</em>
+      </td>
+    </tr>
+    <tr>
+      <td>10:00-10:50</td>
+      <td>
+        <strong>Session IV: Analysis & Verification</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>10:00-10:25</strong><br> Francesco Di Cosmo <br><em>Verification of Coverability in Positive Interactive Datalog Programs</em></li>
+          <li><strong>10:25-10:50</strong><br> Alessandro Bertagnon, Marco Gavanelli <br><em>Stronger Integration of Circuit and All Different Propagators for the Hamiltonian Cycle Problem</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10:50-11:15</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>11:15-12:50</td>
+      <td>
+        <strong>Session V: Probabilistic Logic Programming and Process Mining</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>11:15-11:40</strong><br> Elena Bellodi <br><em>Probabilistic Traces in Declarative Process Mining</em></li>
+          <li><strong>11:40-12:05</strong><br> Elena Bellodi <br><em>Probabilistic Compliance in Declarative Process Mining</em></li>
+          <li><strong>12:05-12:30</strong><br> Elena Bellodi <br><em>Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study</em></li>
+          <li><strong>12:30-12:50</strong><br> Elena Bellodi <br><em>Probabilistic compliance of uncertain traces in Declarative Process Mining</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>13:00-14:00</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>14:00-15:00</td>
+      <td>
+        <strong>Tutorial</strong><br>
+        <em>Chair: TBD</em><br><br>
+        <strong>Giuseppe Mazzotta, University of Calabria, Italy</strong><br>
+        <em>ASP with Quantifiers: A Natural and Efficient Way to Tackle Problems Beyond NP</em>
+      </td>
+    </tr>
+    <tr>
+      <td>15:00-16:15</td>
+      <td>
+        <strong>Session VI: Answer Set Programming & Natural Language Processing</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>15:00-15:25</strong><br> Mario Alviano, Paola Guarasci <br><em>Querying and Visualizing Digital Twins with ASP and ASP Chef: Preliminary Report</em></li>
+          <li><strong>15:25-15:50</strong><br> Alessio Russo, Eleonora Iotti, Alessandro Dal Palù <br><em>Answer Set Programming for Feature-Based Explanation of Malware Prediction</em></li>
+          <li><strong>15:50-16:15</strong><br> Carmine Dodaro, Giuseppe Mazzotta, Francesco Ricca <br><em>Blending grounding and compilation for efficient ASP solving</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>16:15-16:30</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>16:30-17:30</td>
+      <td>Assemblea Soci</td>
+    </tr>
+    <tr>
+      <td>19:15</td>
+      <td>Social Dinner</td>
+    </tr>
+  </tbody>
+</table>
 
+
+<table class="schedule">
+  <thead>
+    <tr>
+      <th>Time</th>
+      <th>Friday (27/06/2025)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>09:00-10:35</td>
+      <td>
+        <strong>Session VII: Knowledge Representation (Part I)</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>09:00-09:25</strong><br> Valentina Pitoni, Stefania Costantini, Andrea Monaldini, Alina Vozna <br><em>From Blueprint Personas to Epistemic Agents: A Comparative Study of ASP-Based and L-DINF-Based Approaches to Medical Appointment Scheduling</em></li>
+          <li><strong>09:25-09:45</strong><br> Stefano Angelo Rizzo, Domenico Cantone, Marianna Nicolosi-Asmundo <br><em>ALIGHIERoo: Advanced Literary and Iconographic Graph for Hermeneutics of Interconnected Editions and Resources - Object Oriented</em></li>
+          <li><strong>09:45-10:10</strong><br> Gabriele Sacco, Loris Bozzato, Oliver Kutz <br><em>An ASP translation for non-monotonic reasoning on DL-Lite<sub>R</sub> with Prototype Descriptions</em></li>
+          <li><strong>10:10-10:35</strong><br> Andrea Cuteri, Giuseppe Mazzotta, Francesco Ricca <br><em>Toward Executing Datalog on Big Data Platforms</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>10:35-10:50</td>
+      <td>Coffee Break</td>
+    </tr>
+    <tr>
+      <td>10:50-12:25</td>
+      <td>
+        <strong>Session IX: Logic</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>10:50-11:15</strong><br> Andrea Formisano, Isacco Gavazzi, Eugenio G. Omodeo <br><em>Diophantine modeling of provability in algebraic logic</em></li>
+          <li><strong>11:15-11:35</strong><br> Mario Alviano, Laura Giordano, Daniele Theseider Dupré <br><em>Temporal Many-valued Conditional Logics: an Abridged Report</em></li>
+          <li><strong>11:35-12:00</strong><br> Domenico Cantone, Marianna Nicolosi Asmundo, Eugenio G. Omodeo <br><em>Key Metalogical Propositions on a Variant of Hilbert’s Epsilon-Calculus</em></li>
+          <li><strong>12:00-12:25</strong><br> Mauro Ferrari, Camillo Fiorentini, Paolo Giardini <br><em>Proof search and countermodel construction for iCK4</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>12:25-13:25</td>
+      <td>Lunch</td>
+    </tr>
+    <tr>
+      <td>13:25-14:40</td>
+      <td>
+        <strong>Session X: Argumentation</strong><br>
+        <em>Chair: TBD</em>
+        <ul>
+          <li><strong>13:30-13:55</strong><br> Paolo Baldi, Fabio Aurelio D'Asaro, Abeer Dyoub, Francesca Alessandra Lisi <br><em>Weighted Assumption Based Argumentation to reason about ethical principles and actions</em></li>
+          <li><strong>13:55-14:15</strong><br> Emanuele De Angelis, Maurizio Proietti, Francesca Toni <br><em>Learning Brave Assumption-Based Argumentation Frameworks via ASP</em></li>
+          <li><strong>14:15-14:40</strong><br> Emanuele De Angelis, Maurizio Proietti, Francesca Toni <br><em>Greedy ABA Learning for Case-Based Reasoning</em></li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td>14:40-14:45</td>
+      <td>Closing</td>
+    </tr>
+  </tbody>
+</table>
