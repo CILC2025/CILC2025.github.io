@@ -126,10 +126,10 @@ layout: splash
         <strong>Session V: Probabilistic Logic Programming and Process Mining</strong><br>
         <em>Chair: TBD</em>
         <ul>
-          <li><strong>11:15-11:40</strong><br> Elena Bellodi <br><em>Probabilistic Traces in Declarative Process Mining</em></li>
-          <li><strong>11:40-12:05</strong><br> Elena Bellodi <br><em>Probabilistic Compliance in Declarative Process Mining</em></li>
-          <li><strong>12:05-12:30</strong><br> Elena Bellodi <br><em>Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study</em></li>
-          <li><strong>12:30-12:50</strong><br> Elena Bellodi <br><em>Probabilistic compliance of uncertain traces in Declarative Process Mining</em></li>
+          <li><strong>11:15-11:40</strong><br> Michela Vespa, Elena Bellodi, Federico Chesani, Daniela Loreti, Paola Mello, Evelina Lamma, Anna Ciampolini, Marco Gavanelli, Riccardo Zese <br><em>Probabilistic Traces in Declarative Process Mining</em></li>
+          <li><strong>11:40-12:05</strong><br> Michela Vespa, Elena Bellodi, Federico Chesani, Daniela Loreti, Paola Mello, Evelina Lamma, Anna Ciampolini <br><em>Probabilistic Compliance in Declarative Process Mining</em></li>
+          <li><strong>12:05-12:30</strong><br> Michela Vespa, Francesca Remelli, Elena Bellodi, Raffaele Antonelli Incalzi <br><em>Discovery of logic-probabilistic rules from COVID-19 vaccine antibody response in older people: results from the GeroCovid VAX Study</em></li>
+          <li><strong>12:30-12:50</strong><br> Michela Vespa, Elena Bellodi <br><em>Probabilistic compliance of uncertain traces in Declarative Process Mining</em></li>
         </ul>
       </td>
     </tr>
