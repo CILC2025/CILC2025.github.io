@@ -37,7 +37,7 @@ The registration fee includes:
 {: .text-justify}
 The Italian Association for Logic Programming is offering a limited number of free shared accommodations (same-gender rooms) for two nights — June 25th and 26th — during CILC 2025.  
 We particularly welcome requests from Master's students, PhD students, and early-career postdocs.  
-The requests for support are now closed (03 June 2025).
+Participants interested in this support are kindly invited to complete the [Google Form](https://forms.gle/g14aP6Ng7xdezi4d7) as soon as possible.
 
 {: .text-justify}
 At least **one author of each paper** must pay a **senior registration fee**.  
