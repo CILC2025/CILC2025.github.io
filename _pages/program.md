@@ -8,11 +8,13 @@ header:
 layout: splash
 ---
 
+## Wednesday (25/06/2025)
+
 <table class="schedule">
   <thead>
     <tr>
       <th>Time</th>
-      <th>Wednesday (25/05/2025)</th>
+      <th>Wednesday (25/06/2025)</th>
     </tr>
   </thead>
   <tbody>
@@ -87,6 +89,7 @@ layout: splash
   </tbody>
 </table>
 
+## Thursday (25/06/2025)
 
 <table class="schedule">
   <thead>
@@ -173,6 +176,7 @@ layout: splash
   </tbody>
 </table>
 
+# Friday (27/06/2025)
 
 <table class="schedule">
   <thead>
