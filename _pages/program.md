@@ -89,7 +89,7 @@ layout: splash
   </tbody>
 </table>
 
-## Thursday (25/06/2025)
+## Thursday (26/06/2025)
 
 <table class="schedule">
   <thead>
